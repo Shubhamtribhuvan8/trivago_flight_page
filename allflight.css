@@ -15,45 +15,6 @@ h1 {
     font-size: 34px;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
-#maininputbox {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 10px;
-    margin-left: 20%;
-    margin-top: 1%;
-    position: relative;
-}
-
-input {
-    width: 204px;
-    margin: 1%;
-    height: 42px;
-    text-align: center;
-    font-size: larger;
-    font-weight: bold;
-    color: black;
-}
-
-.material-symbols-outlined {
-    transform: rotate(0deg) !important;
-}
-
-#Search {
-    background-color: #428500;
-    color: white;
-    border: none;
-}
-
-h2 {
-    padding: 0 0.625em;
-    justify-content: space-between;
-    color: #212a30;
-    border: 1px solid #e5ebf0;
-    background-color: #fff;
-    width: 20%;
-    display: flex;
-}
 
 #box {
     width: 164px;

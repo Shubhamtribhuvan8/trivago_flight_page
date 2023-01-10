@@ -18,7 +18,7 @@ function header(){
         <nav id="navTwo">
             <ul>
                 <li><a href="#"><span><i class="fa-regular fa-heart"></i></span><span>My Favourites</span></a></li>
-                <li><a href="Login.html"><span>Log in</span><span></span></a></li>
+                <li><a href="#"><span>Log in</span><span></span></a></li>
                 <li><a href="#"><span>Menu</span><span></span></a></li>
                 <select>
                     <optgroup label="Top currencies">
